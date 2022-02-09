@@ -49,7 +49,7 @@ class SelfAttention:
 
 
 class GRE:
-    """Geographical Relation Encoder"""
+    """Geography Interaction Encoder"""
 
     def __init__(self):
         pass
